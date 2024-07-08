@@ -1,1 +1,1 @@
-# a-small-Data-Science-Web-App-in-Python
+# Stock Visualization Websapp with Streamlit
